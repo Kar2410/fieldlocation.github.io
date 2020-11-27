@@ -30,6 +30,6 @@ body {
 @media only screen and (max-width: 600px) {
   .crop{
     font-size: 30px;
-    margin-top: 30px;
+    margin-top: -30px;
   }
   }
